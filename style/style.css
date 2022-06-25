@@ -32,3 +32,8 @@ section#telefone {
     background-repeat: no-repeat;
     
 }
+img {
+    border-radius: 100%;
+    height: 4em;
+
+}
